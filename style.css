@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins',sans-serif;
+   
+}
+body
+{
+    justify-content: space-between;
+    background-image:url('tool4-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ 
+}
+content{
+    padding: 10px;
+
+}
+input {
+    padding: 10px;
+    border-radius: 2px;
+     border: 1px solid #000;
+     /* background: transparent;  */
+}
+button{
+    background-color: brown;
+    color: white;
+    padding: 11px;
+    font-family: 'Poppins',sans-serif;
+   
+}
